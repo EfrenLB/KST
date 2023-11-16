@@ -2,3 +2,4 @@ This repository contains the script for quantifying maximum differences in cumul
 
 To execute the script, use the KS-test.R script to calculate D and PV values. Additional details about the rationale behind the script and its purpose are available in the scientific paper: López-Blanco, E., Topp-Jørgensen, E., R. Christensen, T., Rasch, M., Skov, M., F. Arndal, M., M. Bret-Harte, S., V. Callaghan, T., and M. Schmidt, N. "Towards an increasingly biased view on Arctic change." (XXXX) Nature Climate Change.
 
+
