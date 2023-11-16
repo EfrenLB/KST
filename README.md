@@ -1,1 +1,4 @@
-# KST
+This repository contains the script for quantifying maximum differences in cumulative distribution functions (D-values from Kolmogorov–Smirnov tests) between different sample populations (the pan-Arctic domain and INTERACT stations, with or without Russian stations) across eight CMIP6 ESMs and eight ecosystem variables. The code randomly samples the same number of grid cells from all ESMs, equal to the smallest population size among all models (CanESM5 with 496 data points, excluding ocean and Greenland Ice Sheet pixels). To minimize potential artifacts from the sample size choice, 100 replicates of random sample populations of 496 data points per ESM and variable were retrieved.
+
+To execute the script, use the KS-test.R script to calculate D and PV values. Additional details about the rationale behind the script and its purpose are available in the scientific paper: López-Blanco, E., Topp-Jørgensen, E., R. Christensen, T., Rasch, M., Skov, M., F. Arndal, M., M. Bret-Harte, S., V. Callaghan, T., and M. Schmidt, N. "Towards an increasingly biased view on Arctic change." (XXXX) Nature Climate Change.
+
