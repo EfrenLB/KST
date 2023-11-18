@@ -1,5 +1,15 @@
 ####### KS test & Q1-3 loop   ##### 
 
+; MODELS
+; 1 - ECEarth3
+; 2 - NorESM2
+; 3 - IPSL
+; 4 - MPI
+; 5 - ACCESS
+; 6 - BCC
+; 7 - CanESM5
+; 8 - CMCC
+
 n <- 100
 tas_1 <- matrix(ncol=20, nrow=n)
 tas_2 <- matrix(ncol=20, nrow=n)
